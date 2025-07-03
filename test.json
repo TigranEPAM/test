@@ -1,0 +1,10 @@
+{
+        "width": 100,
+        "height": 100,
+        "name": "test",
+        "font": {
+                "size": "16px",
+                "color": "red"
+        },
+        "isChecked": true
+}
